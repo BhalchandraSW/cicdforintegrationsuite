@@ -14,4 +14,5 @@ steps:
   integrationArtifactUpload:
     packageId: "LeadtoCash"
     integrationFlowName: "Customer_from_Salesforce_to_SAP_S4_Hana"
+    verbose: true
     filePath: "Customer from Salesforce to SAP S4 Hana"
