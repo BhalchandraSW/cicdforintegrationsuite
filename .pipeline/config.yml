@@ -1,0 +1,16 @@
+---
+general:
+  cpiApiServiceKeyCredentialsId: "uat-api"
+  integrationFlowId: "Customer_from_Salesforce_to_SAP_S4_Hana"
+stages:
+  uploadStage:
+    enabled: true
+  deployStage:
+    enabled: true
+  integrationTestStage:
+    enabled: false
+steps:
+  integrationArtifactUpload:
+    packageId: "LeadtoCash"
+    integrationFlowName: "Customer_from_Salesforce_to_SAP_S4_Hana"
+    filePath: "Customer from Salesforce to SAP S4 Hana"
