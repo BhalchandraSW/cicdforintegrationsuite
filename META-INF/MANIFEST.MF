@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Customer from Salesforce to SAP S4 Hana
+Bundle-Name: Customer_from_Salesforce_to_SAP_S4_Hana
 Bundle-SymbolicName: Customer_from_Salesforce_to_SAP_S4_Hana; singleton:
  =true
-Bundle-Version: 1.0.1
+Bundle-Version: 1.0.2
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
