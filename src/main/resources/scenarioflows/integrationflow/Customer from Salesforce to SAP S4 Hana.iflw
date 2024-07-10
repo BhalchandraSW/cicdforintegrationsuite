@@ -93,7 +93,7 @@
                 </ifl:property>
                 <ifl:property>
                     <key>Description</key>
-                    <value/>
+                    <value>This flow sends customer information from Salesforce to SAP S/4 Hana</value>
                 </ifl:property>
                 <ifl:property>
                     <key>maximumBodySize</key>
